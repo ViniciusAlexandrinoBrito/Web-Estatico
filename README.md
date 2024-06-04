@@ -33,6 +33,5 @@
         <button class="operation-button" id="equals" onclick="calcular('=')">=</button>
       </div>
     </div>
-    <script src="calc.js"></script>
   </body>
 </html>
